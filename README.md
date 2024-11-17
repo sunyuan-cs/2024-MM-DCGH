@@ -17,4 +17,4 @@ Matlab. Run DCGH_demo.m
 ```
 
 ### Datasets
-We use four datasets to perform our experiments, i.e., WIKI, MIRFlickr-25K, IAPR-TC12, and NUS-WIDE. You can download all datasets using the following link:
+We use four datasets to perform our experiments, i.e., WIKI, MIRFlickr-25K, IAPR-TC12, and NUS-WIDE. You can download all datasets using the following link: (链接：https://pan.quark.cn/s/d05207712e2c 提取码：r4SH)
